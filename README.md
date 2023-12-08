@@ -1,5 +1,5 @@
 # Business-Analytics-course
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Business-Analytics-course</a> 
 Спецкурс по бизнес анализу.
 
 Основная задача: проанализировать с точки зрения бизнес-аналитика данные заказчика (заказчик хотел внедрить образовательную платформу для своих сотрудников).
