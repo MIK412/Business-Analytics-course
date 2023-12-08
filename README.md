@@ -1,5 +1,4 @@
-# Business-Analytics-course
-<h1 align="center">Business-Analytics-course</a> 
+# <h1 align="center">Business-Analytics-course</a>  
 Спецкурс по бизнес анализу.
 
 Основная задача: проанализировать с точки зрения бизнес-аналитика данные заказчика (заказчик хотел внедрить образовательную платформу для своих сотрудников).
