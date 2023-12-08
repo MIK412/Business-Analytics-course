@@ -1,4 +1,4 @@
-# <h1 align="center">Business-Analytics-course</a>  
+# <h1 align="center">Business-Analytics-course</h1>
 
 
 Спецкурс по бизнес анализу.
